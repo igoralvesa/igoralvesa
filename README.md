@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=5000&color=FE428E&center=true&vCenter=true&width=940&lines=Hello👋,+I'm+Igor+Alves" alt="Hello 👋, I'm Igor Alves animated typed out" width="80%" align="middle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=FE428E&center=true&vCenter=true&width=940&lines=Hello👋,+I'm+Igor+Alves" alt="Hello 👋, I'm Igor Alves animated typed out" width="80%" align="middle" />
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 </div>
 
