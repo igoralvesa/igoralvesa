@@ -15,6 +15,28 @@
 ## 🛠 Language & tools:
 
 <div align="center">
+  <!-- Spring Boot -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="41" title="Spring Boot"/>
+ <img width="14" />
+<!-- React -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="41" title="React" />
+ <img width="14" />
+<!-- Tailwind CSS -->
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" />
+ <img width="14" />
+<!-- Next.js -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="41" title="Next.js" />
+ <img width="14" />
+<!-- NestJS -->
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="28" />
+
+ <img width="14" />
+<!-- Express -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="41" title="Express" />
+ <img width="14" />
+<!-- Node.js -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="41" title="Node.js" />
+ <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="41" alt="c logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="41" alt="java logo"  />
