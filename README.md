@@ -22,13 +22,7 @@
 <!-- Next.js -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="41" title="Next.js" />
  <img width="14" />
-<!-- NestJS -->
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="28" />
 
- <img width="14" />
-<!-- Express -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="41" title="Express" />
- <img width="14" />
 <!-- Node.js -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="41" title="Node.js" />
  <img width="14" />
